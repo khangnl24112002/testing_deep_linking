@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.khangnl24112002.deeplinkingyoutube",
+      "sha256_cert_fingerprints": [
+        "7E:CD:EE:19:3B:FA:2F:5A:71:FC:75:F9:7A:2F:AC:2C:8F:04:5B:64:41:B5:E8:CE:09:5E:D8:B5:F3:43:C7:BD"
+      ]
+    }
+  }
+]
